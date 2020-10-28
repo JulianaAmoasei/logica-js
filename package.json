@@ -1,0 +1,22 @@
+{
+  "name": "logica-js",
+  "version": "1.0.0",
+  "description": "Alguns tópicos iniciais de lógica de programação com JS e exercícios",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JulianaAmoasei/logica-js.git"
+  },
+  "keywords": [],
+  "author": "https://github.com/JulianaAmoasei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JulianaAmoasei/logica-js/issues"
+  },
+  "homepage": "",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
