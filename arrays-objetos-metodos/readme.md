@@ -1,4 +1,4 @@
-# Aula 4 - Arrays, objetos e métodos
+# Arrays, objetos e métodos
 
 Nessa aula veremos como trabalhar com quantidades maiores de dados ao mesmo tempo, utilizando estruturas que chamamos de arrays e objetos. 
 
